@@ -1,4 +1,4 @@
-module github.com/marco-rozz/go-nanoid.git
+module github.com/marco-rozz/go-nanoid
 
 go 1.20
 

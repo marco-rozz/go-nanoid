@@ -4,7 +4,7 @@ package nanoid_test
 import (
 	"testing"
 
-	"github.com/marco-rozz/go-nanoid.git"
+	"github.com/marco-rozz/go-nanoid"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
