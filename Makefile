@@ -14,3 +14,6 @@ gofumpt:
 
 tidy:
 	go mod tidy -compat=1.20
+
+vuln:
+	govulncheck -show verbose ./...
